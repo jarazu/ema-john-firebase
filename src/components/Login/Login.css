@@ -1,3 +1,4 @@
-.login-form{
-    display: flex;
+.login-form {
+  display: flex;
+  justify-content: center;
 }
